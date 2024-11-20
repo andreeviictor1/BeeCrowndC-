@@ -1,0 +1,14 @@
+C:\Users\andre\source\beecrownd\Bee1397\bin\Debug\net8.0\Bee1397.exe
+C:\Users\andre\source\beecrownd\Bee1397\bin\Debug\net8.0\Bee1397.deps.json
+C:\Users\andre\source\beecrownd\Bee1397\bin\Debug\net8.0\Bee1397.runtimeconfig.json
+C:\Users\andre\source\beecrownd\Bee1397\bin\Debug\net8.0\Bee1397.dll
+C:\Users\andre\source\beecrownd\Bee1397\bin\Debug\net8.0\Bee1397.pdb
+C:\Users\andre\source\beecrownd\Bee1397\obj\Debug\net8.0\Bee1397.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\beecrownd\Bee1397\obj\Debug\net8.0\Bee1397.AssemblyInfoInputs.cache
+C:\Users\andre\source\beecrownd\Bee1397\obj\Debug\net8.0\Bee1397.AssemblyInfo.cs
+C:\Users\andre\source\beecrownd\Bee1397\obj\Debug\net8.0\Bee1397.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\beecrownd\Bee1397\obj\Debug\net8.0\Bee1397.dll
+C:\Users\andre\source\beecrownd\Bee1397\obj\Debug\net8.0\refint\Bee1397.dll
+C:\Users\andre\source\beecrownd\Bee1397\obj\Debug\net8.0\Bee1397.pdb
+C:\Users\andre\source\beecrownd\Bee1397\obj\Debug\net8.0\Bee1397.genruntimeconfig.cache
+C:\Users\andre\source\beecrownd\Bee1397\obj\Debug\net8.0\ref\Bee1397.dll
